@@ -1,6 +1,6 @@
 # DITO Exchange
 
-[DITO](https://ditoswap.com/) is an automated market maker (“**AMM**”) that allows two tokens to be exchanged on the [Binance Smart Chain](https://www.binance.org/en/smartChain) (BSC). It is fast, cheap, and allows anyone to participate.
+[DITO](https://dapp.ditoswap.com/) is an automated market maker (“**AMM**”) that allows two tokens to be exchanged on the [Binance Smart Chain](https://www.binance.org/en/smartChain) (BSC). It is fast, cheap, and allows anyone to participate.
 
 This repo is responsible for the **exchange** interface of the AMM: [exchange.ditoswap.com](https://exchange.ditoswap.com/)
 

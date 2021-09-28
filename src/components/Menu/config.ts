@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://ditoswap.com/',
+    href: 'https://dapp.ditoswap.com/',
   },
   {
     label: 'Trade',
@@ -24,12 +24,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://ditoswap.com/farms',
+    href: 'https://dapp.ditoswap.com/farms',
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://ditoswap.com/pools',
+    href: 'https://dapp.ditoswap.com/pools',
   },
   {
     label: 'NFT Marketplace',
@@ -56,7 +56,7 @@ const config: MenuEntry[] = [
   // {
   //   label: 'Lottery',
   //   icon: 'TicketIcon',
-  //   href: 'https://ditoswap.com/lottery'
+  //   href: 'https://dapp.ditoswap.com/lottery'
   // },
   {
     label: 'Info',
