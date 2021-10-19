@@ -19,6 +19,14 @@
       "logoURI": "/images/coins/DTO.png"
     },
     {
+      "name": "JYCOIN",
+      "symbol": "JYC",
+      "address": "0xfc8d7524685c079dcbf22bf5a2c6bdc266bca8eb",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/JYC.png"
+    },
+    {
       "name": "AUTOv2",
       "symbol": "AUTO",
       "address": "0xa184088a740c695e156f91f5cc086a06bb78b827",
